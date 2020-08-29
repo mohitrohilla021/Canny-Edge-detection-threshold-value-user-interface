@@ -6,3 +6,4 @@ It has been widely applied in various computer vision systems.
 
 Canny has found that the requirements for the application of edge detection on diverse vision systems are relatively similar.
 
+1[](edge.JPG)
